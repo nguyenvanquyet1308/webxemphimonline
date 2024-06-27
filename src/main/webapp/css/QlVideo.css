@@ -1,0 +1,40 @@
+header{
+    background-color: #252525;
+    margin-top: 0px;
+}
+.navbar-brand img{
+    width: 100px;
+
+}
+.nav-item a{
+    font-size: 18px;
+    margin-left: 20px;
+ color: rgb(201, 199, 197);
+ font-family: Roboto, sans-serif;
+   
+
+}
+
+.dropdown-item{
+    width: auto;
+    padding: 0px ;
+   
+}
+#text{
+    margin: 5px;
+}
+label{
+    margin: 5px;
+}
+
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+    }
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+ }
